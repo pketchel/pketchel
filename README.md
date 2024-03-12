@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm currently starting my journey into full stack development.
+Reach me at ketchelpayton@gmail.com
